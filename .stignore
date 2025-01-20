@@ -1,0 +1,13 @@
+# IDE
+.vscode/
+
+# Unnecessary files
+# Commented out files are necessary
+storage/backups/*
+# storage/images/*
+# storage/documents/*
+storage/hotkeys/*
+# storage/music/*
+storage/software/*
+storage/projects/*
+# storage/fonts/*

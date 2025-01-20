@@ -1,0 +1,18 @@
+# IDE
+.vscode/
+
+# Unnecessary files
+storage/backups/*
+storage/images/*
+storage/documents/*
+storage/hotkeys/*
+storage/music/*
+storage/software/*
+storage/fonts/*
+
+## Projects
+storage/projects/sdk/*
+storage/projects/current/*
+storage/projects/old/*
+storage/projects/temporary/*
+

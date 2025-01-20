@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "745bdfac6544f6ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbbf8179415ceff7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65dd307d7ba8df81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Menu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Menu"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1abc42395336fff",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ec46bf4dff0b917",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d4758ee7b39b551",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "15fa627fac21e3f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "41fed03c17492d0a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9e5d621d58a7a50",
+    "type": "split",
+    "children": [
+      {
+        "id": "b922ef0a2a4637a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1118a8e25bef9e21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "2895b1e4fe6afe6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "2adb647038f6dab4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "597fb899b2302175",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Menu.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Menu"
+            }
+          },
+          {
+            "id": "6f58af1ef7442ad1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "65dd307d7ba8df81",
+  "lastOpenFiles": [
+    "storage/projects/current/obsidian-spaced-repetition/tests/vaults/notes5/A.md",
+    "Menu.md",
+    "README.md",
+    "storage/projects/current/obsidian-spaced-repetition/tests/vaults/notes1/Computation Graph.md",
+    "storage/projects/current/obsidian-spaced-repetition/tests/vaults/notes5/B.md",
+    "storage/projects/current/obsidian-spaced-repetition/versions.json",
+    "storage/projects/current/obsidian-spaced-repetition/tsconfig.json",
+    "storage/projects/current/obsidian-spaced-repetition/tests/unit/algorithms/osr/rep-item-schedule-info-osr.test.ts",
+    "storage/projects/current/obsidian-spaced-repetition/tests/unit/algorithms/osr/srs-algorithm-osr.test.ts",
+    "storage/projects/current/obsidian-spaced-repetition/tests/vaults/notes6/A.md",
+    "storage/projects/current/obsidian-spaced-repetition/tests/vaults/notes5/notes5_readme.md",
+    "storage/projects/current/obsidian-spaced-repetition/tests/vaults/notes5/D.md",
+    "storage/projects/current/obsidian-spaced-repetition/tests/vaults/notes5/C.md",
+    "storage/projects/current/obsidian-spaced-repetition/tests/vaults/notes4/notes4_readme.md",
+    "storage/projects/current/obsidian-spaced-repetition/tests/vaults/notes4/D.md",
+    "storage/projects/current/obsidian-spaced-repetition/tests/vaults/notes4/C.md",
+    "storage/projects/current/obsidian-spaced-repetition/tests/vaults/notes4/B.md",
+    "storage/projects/current/obsidian-spaced-repetition/tests/vaults/notes4/A.md",
+    "storage/projects/current/obsidian-spaced-repetition/tests/vaults/notes3/D.md",
+    "storage/projects/current/obsidian-spaced-repetition/tests/vaults/notes3/C.md",
+    "storage/projects/current/obsidian-spaced-repetition/tests/vaults/notes3/B.md",
+    "storage/projects/current/obsidian-spaced-repetition/tests/vaults/notes3/A.md",
+    "storage/projects/current/obsidian-spaced-repetition/tests/vaults/notes2/Triboelectric Effect.md",
+    "storage/projects/current/obsidian-spaced-repetition/tests/vaults/filesButNoQuestions/The nature of light.md",
+    "storage/projects/current/obsidian-spaced-repetition/tests/vaults/filesButNoQuestions/Newton thought that light was composed of particles.md",
+    "storage/projects/current/obsidian-spaced-repetition/tests/unit/utils/types.test.ts",
+    "storage/projects/current/obsidian-spaced-repetition/tests/unit/utils/strings.test.ts",
+    "storage/projects/current/obsidian-spaced-repetition/tests/unit/utils/numbers.test.ts",
+    "storage/projects/current/obsidian-spaced-repetition/tests/unit/utils/fs.test.ts",
+    "storage/projects/current/obsidian-spaced-repetition/tests/unit/utils/dates.test.ts",
+    "storage/projects/current/obsidian-spaced-repetition/tests/unit/lang/helpers.test.ts",
+    "storage/projects/current/obsidian-spaced-repetition/tests/vaults/readme.md",
+    "storage/projects/current/obsidian-spaced-repetition/src/icons/card.svg",
+    "storage/projects/current/obsidian-spaced-repetition/docs/docs/en/flashcards/statistics.md",
+    "storage/projects/current/obsidian-spaced-repetition/docs/docs/en/flashcards/flashcards-overview.md",
+    "storage/projects/current/obsidian-spaced-repetition/docs/docs/en/flashcards/cloze-cards.md",
+    "storage/projects/current/obsidian-spaced-repetition/docs/docs/en/flashcards/reviewing.md",
+    "storage/projects/current/obsidian-spaced-repetition/docs/media/en/user-interface-overview.jpg",
+    "storage/projects/current/obsidian-spaced-repetition/docs/media/en/table-with-preceding-blank-line.jpg",
+    "storage/projects/current/obsidian-spaced-repetition/docs/media/en/table-with-preceding-blank-line-review.jpg",
+    "storage/projects/current/obsidian-spaced-repetition/docs/media/en/table-with-preceding-blank-line+++.jpg",
+    "storage/projects/current/obsidian-spaced-repetition/docs/media/en/table-with-no-preceding-blank-line.jpg",
+    "storage/projects/current/obsidian-spaced-repetition/docs/media/en/stats_forecast.png",
+    "storage/projects/current/obsidian-spaced-repetition/docs/media/en/settings-ui-preferences.jpg",
+    "storage/projects/current/obsidian-spaced-repetition/docs/media/en/settings-notes.jpg",
+    "storage/projects/current/obsidian-spaced-repetition/docs/media/en/reviewing-context.jpg",
+    "storage/backups/obsidian/backup as of 26.10.2024/obsidian/Canvas/Структура БЗ.canvas",
+    "storage/backups/obsidian/backup as of 26.10.2024/obsidian/Canvas/def \"main\".canvas",
+    "storage/backups/obsidian/backup as of 26.10.2024/obsidian/Canvas/class \"SetTGBot\".canvas",
+    "storage/backups/obsidian/backup as of 26.10.2024/obsidian/Canvas/aiogrambot.canvas",
+    "storage/backups/obsidian/backup as of 26.10.2024/obsidian/Canvas/TGBot template - структура.canvas",
+    "storage/backups/obsidian/backup as of 26.10.2024/obsidian/Canvas/\"main\" функція.canvas",
+    "storage/backups/obsidian/backup as of 18.01.2025/ai_knowledge/Canvas/ai-linguist.canvas",
+    "storage/backups/obsidian/backup as of 18.01.2025/ai_knowledge/Canvas/magic-vault.canvas",
+    "storage/backups/obsidian/backup as of 18.01.2025/ai_knowledge/Canvas/Aiogramskeleton - структура.canvas",
+    "storage/backups/obsidian/backup as of 18.01.2025/ai_knowledge/Canvas/Nicknema - структура.canvas"
+  ]
+}
