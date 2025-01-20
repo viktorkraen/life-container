@@ -10,6 +10,6 @@ the user's root directory (if on PC) or in the device's root directory
 
 ## Information 📋
 
-📖 [LC rules](LC.md)
+📖 [LC rules](/docs/LC.md)
 
 `By Viktor Kraen ◮, 2025`
