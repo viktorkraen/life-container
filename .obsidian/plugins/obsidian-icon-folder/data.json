@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiMessageCircleWarning",
-      "LiClipboardList",
-      "LiDiscAlbum",
-      "LiBrain",
-      "🧠"
+      "LiMenu",
+      "LiBriefcaseMedical",
+      "LiImage",
+      "LiNotebookTabs",
+      "LiFullscreen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,7 +33,6 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "Media": "LiFileVideo",
   "Canvas": "LiDiameter",
   "Меню (Українською) 🇺🇦.md": "LiMenuSquare",
   "Templates": "LiLayoutTemplate",
@@ -46,5 +45,9 @@
   "storage": "LiDiscAlbum",
   "docs": "LiClipboardList",
   "README.md": "LiMessageCircleWarning",
-  "the-digital-brain/README.md": "LiMessageCircleWarning"
+  "the-digital-brain/README.md": "LiMessageCircleWarning",
+  "console.md.md": "LiFullscreen",
+  "the-digital-brain/notes": "LiNotebookTabs",
+  "the-digital-brain/media": "LiBriefcaseMedical",
+  "the-digital-brain/menu.md": "LiMenu"
 }

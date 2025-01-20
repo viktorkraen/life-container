@@ -8,20 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "6a19bdc56c1b25d5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "84843043c35687e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "storage/backups/obsidian/backup as of 26.10.2024/obsidian/Меню (Українською) 🇺🇦.md",
+                "file": "console.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Меню (Українською) 🇺🇦"
+              "title": "console.md"
+            }
+          },
+          {
+            "id": "9a977388b30282f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "console.md.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "console.md"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "storage/backups/obsidian/backup as of 26.10.2024/obsidian/Меню (Українською) 🇺🇦.md",
+                "file": "console.md.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +165,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Меню (Українською) 🇺🇦"
+              "title": "Граф console.md"
             }
           }
         ]
@@ -204,10 +229,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "storage/backups/obsidian/backup as of 26.10.2024/obsidian/Меню (Українською) 🇺🇦.md"
+                "file": "console.md.md"
               },
               "icon": "lucide-list",
-              "title": "Вміст Меню (Українською) 🇺🇦"
+              "title": "Вміст console.md"
             }
           },
           {
@@ -232,6 +257,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Почати/зупинити запис": false,
       "switcher:Відкрити провідник файлів": false,
       "graph:Граф": false,
       "canvas:Створити нове полотно": false,
@@ -243,12 +269,26 @@
       "dashboard-navigator:Open dashboard navigator": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b239431e3e8a5fc",
+  "active": "9a977388b30282f1",
   "lastOpenFiles": [
+    "the-digital-brain/menu.md",
+    "console.md.md",
+    "the-digital-brain/media/Pasted image 20250120235423.png",
+    "the-digital-brain/media",
+    "Media/Pasted image 20250120235142.png",
+    "Media",
+    "the-digital-brain/banners",
+    "README.md",
+    "the-digital-brain/notes/a.md",
+    "the-digital-brain/menu.md.md",
+    "the-digital-brain/notes",
+    "Menu.md",
+    "the-digital-brain/scripts/execute.js",
+    "the-digital-brain/scripts",
+    "storage/backups/obsidian/backup as of 26.10.2024/obsidian/Меню (Українською) 🇺🇦.md",
     "Меню (Українською) 🇺🇦.md",
     "All notes/Flutter - робота зі станами за допомогою ChangeNotifierProvider.md",
     "All notes/ПВУ - поелементно.md",
@@ -269,13 +309,6 @@
     "All notes/ReactNative - TextInput.md",
     "All notes/ReactNative - View.md",
     "All notes/ReactNative - працездатність.md",
-    "All notes/Dart.md",
-    "All notes/Dart - виконання коду.md",
-    "All notes/Dart - map.md",
-    "All notes/Flutter - AnimatedTextKit віджет.md",
-    "All notes/Python - функція join.md",
-    "All notes/Python.md",
-    "All notes/Flutter - створення власного Stateless віджета.md",
     "Canvas/magic-vault.canvas",
     "Canvas/Структура бази знань.canvas",
     "Canvas/Структура навчання.canvas",
@@ -292,18 +325,10 @@
     "Media/PC.png",
     "Scraping ",
     "Canvas/aiogramskeleton - структура.canvas",
-    "Templates/For flashcards/DE-W - Kamille.txt",
-    "Aiogram - фільтр на ",
     "Media/Download.jpeg",
     "Media/Pasted image 20241013145910.png",
     "Media/Pasted image 20241008180236.png",
-    "All notes/Русизм - древній.md.tmp",
     "Media/Astronauta.jpeg",
-    "Media/#wallpaperstiker #wallpaperdindingmurah #home #decoration #wallpapercustom #foto #hiasandinding #wallpapercantik #wallart #jualwallpaper #interiors #beautiful #bonito #editar #likeforlikes #s #wallpaperbunga #wallstiker #wallpaperhd #esthe.jpeg",
-    "Media/il_1588xN.3676175524_eqms.webp",
-    "Media/tikgobot_instagram_1725621183430.mp4",
-    "Canvas/Struktur.canvas",
-    "Basic notes",
-    "All notes"
+    "Canvas/Struktur.canvas"
   ]
 }
