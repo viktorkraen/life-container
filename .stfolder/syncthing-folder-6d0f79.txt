@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: qguys-yncrq
+created: 2025-01-21T00:21:49+01:00

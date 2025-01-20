@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiLayoutTemplate",
       "LiMenu",
       "LiBriefcaseMedical",
       "LiImage",
-      "LiNotebookTabs",
-      "LiFullscreen"
+      "LiNotebookTabs"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,8 +46,9 @@
   "docs": "LiClipboardList",
   "README.md": "LiMessageCircleWarning",
   "the-digital-brain/README.md": "LiMessageCircleWarning",
-  "console.md.md": "LiFullscreen",
   "the-digital-brain/notes": "LiNotebookTabs",
   "the-digital-brain/media": "LiBriefcaseMedical",
-  "the-digital-brain/menu.md": "LiMenu"
+  "the-digital-brain/menu.md": "LiMenu",
+  "console.md": "LiFullscreen",
+  "the-digital-brain/templates": "LiLayoutTemplate"
 }

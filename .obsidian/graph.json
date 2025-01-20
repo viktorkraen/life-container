@@ -1,22 +1,37 @@
 {
-  "collapse-filter": false,
-  "search": "path:the-digital-brain ",
+  "collapse-filter": true,
+  "search": "path:the-digital-brain  ",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "$template",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#MOC ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1.7,
-  "nodeSizeMultiplier": 2.24996953696182,
-  "lineSizeMultiplier": 1.09197468183049,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.251139322916667,
-  "repelStrength": 11.3614908854167,
-  "linkStrength": 0.639200846354167,
-  "linkDistance": 500,
-  "scale": 0.07515644457424431,
-  "close": true
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 3.1974986737219204,
+  "close": false
 }

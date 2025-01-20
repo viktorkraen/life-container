@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "78d2a7af42488c51",
         "type": "tabs",
         "children": [
           {
-            "id": "6a19bdc56c1b25d5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "84843043c35687e0",
+            "id": "ceca984a9cbc8fe5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "console.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "console.md"
-            }
-          },
-          {
-            "id": "9a977388b30282f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "console.md.md",
+                "file": "console.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "console.md"
+              "title": "console"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "console.md.md",
+                "file": "console.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +140,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф console.md"
+              "title": "Граф console"
             }
           }
         ]
@@ -229,10 +204,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "console.md.md"
+                "file": "console.md"
               },
               "icon": "lucide-list",
-              "title": "Вміст console.md"
+              "title": "Вміст console"
             }
           },
           {
@@ -267,28 +242,32 @@
       "zk-prefixer:Створити нову унікальну нотатку": false,
       "random-note:Відкрити випадкову нотатку": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a977388b30282f1",
+  "active": "ceca984a9cbc8fe5",
   "lastOpenFiles": [
     "the-digital-brain/menu.md",
-    "console.md.md",
+    "the-digital-brain/templates/moc-$template.md",
+    "console.md",
+    "README.md",
+    "storage/backups/obsidian/backup as of 18.01.2025/ai_knowledge/Меню (Українською) 🇺🇦.md",
+    "the-digital-brain/notes/Без назви.md",
+    "the-digital-brain/templates",
+    "storage/backups/obsidian/backup as of 26.10.2024/obsidian/Меню (Українською) 🇺🇦.md",
+    "the-digital-brain/media/black-books.png",
     "the-digital-brain/media/Pasted image 20250120235423.png",
+    "console.md.md",
     "the-digital-brain/media",
     "Media/Pasted image 20250120235142.png",
     "Media",
     "the-digital-brain/banners",
-    "README.md",
     "the-digital-brain/notes/a.md",
     "the-digital-brain/menu.md.md",
     "the-digital-brain/notes",
     "Menu.md",
     "the-digital-brain/scripts/execute.js",
     "the-digital-brain/scripts",
-    "storage/backups/obsidian/backup as of 26.10.2024/obsidian/Меню (Українською) 🇺🇦.md",
     "Меню (Українською) 🇺🇦.md",
     "All notes/Flutter - робота зі станами за допомогою ChangeNotifierProvider.md",
     "All notes/ПВУ - поелементно.md",
@@ -305,10 +284,6 @@
     "All notes/ReactNative - flex 1.md",
     "All notes/ReactNative - вставка JS обʼєктів до JSX компонентів.md",
     "All notes/ReactNative - створення обʼєкту стилів.md",
-    "All notes/ReactNative - Text.md",
-    "All notes/ReactNative - TextInput.md",
-    "All notes/ReactNative - View.md",
-    "All notes/ReactNative - працездатність.md",
     "Canvas/magic-vault.canvas",
     "Canvas/Структура бази знань.canvas",
     "Canvas/Структура навчання.canvas",
@@ -323,12 +298,10 @@
     "Canvas/Aiogramskeleton - структура.canvas",
     "Canvas/Nicknema - структура.canvas",
     "Media/PC.png",
-    "Scraping ",
     "Canvas/aiogramskeleton - структура.canvas",
     "Media/Download.jpeg",
     "Media/Pasted image 20241013145910.png",
     "Media/Pasted image 20241008180236.png",
-    "Media/Astronauta.jpeg",
     "Canvas/Struktur.canvas"
   ]
 }

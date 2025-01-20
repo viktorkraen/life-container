@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "console.md",
-      "path": "console.md.md"
+      "basename": "console",
+      "path": "console.md"
     },
     {
       "basename": "menu",
       "path": "the-digital-brain/menu.md"
     },
     {
+      "basename": "moc-$template",
+      "path": "the-digital-brain/templates/moc-$template.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "Меню (Українською) 🇺🇦",
+      "path": "storage/backups/obsidian/backup as of 18.01.2025/ai_knowledge/Меню (Українською) 🇺🇦.md"
+    },
+    {
+      "basename": "Меню (Українською) 🇺🇦",
+      "path": "storage/backups/obsidian/backup as of 26.10.2024/obsidian/Меню (Українською) 🇺🇦.md"
+    },
+    {
+      "basename": "black-books",
+      "path": "the-digital-brain/media/black-books.png"
+    },
+    {
+      "basename": "Pasted image 20250120235423",
+      "path": "the-digital-brain/media/Pasted image 20250120235423.png"
+    },
+    {
+      "basename": "LC",
+      "path": "docs/LC.md"
+    },
+    {
+      "basename": "LC1",
+      "path": "docs/LC1.md"
     }
   ],
   "omittedPaths": [],
