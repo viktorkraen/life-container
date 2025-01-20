@@ -2,7 +2,7 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "All notes",
+  "newFileFolderPath": "My World",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "Media",
   "propertiesInDocument": "source",
@@ -13,7 +13,5 @@
     "templater-obsidian:insert-templater",
     "templater-obsidian:create-new-note-from-template",
     "editor:insert-wikilink"
-  ],
-  "showInlineTitle": false,
-  "spellcheck": true
+  ]
 }

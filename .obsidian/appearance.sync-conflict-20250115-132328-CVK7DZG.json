@@ -1,12 +1,12 @@
 {
-  "accentColor": "#723d9e",
-  "cssTheme": "",
+  "accentColor": "#919191",
+  "cssTheme": "Things",
   "enabledCssSnippets": [
     "style"
   ],
   "nativeMenus": false,
-  "textFontFamily": "",
-  "interfaceFontFamily": "",
+  "textFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "JetBrains Mono",
   "translucency": true,
   "theme": "system",
   "baseFontSize": 15

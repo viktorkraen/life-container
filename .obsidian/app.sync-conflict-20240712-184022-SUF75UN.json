@@ -2,7 +2,7 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "All notes",
+  "newFileFolderPath": "My World",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "Media",
   "propertiesInDocument": "source",
@@ -12,8 +12,9 @@
     "insert-template",
     "templater-obsidian:insert-templater",
     "templater-obsidian:create-new-note-from-template",
-    "editor:insert-wikilink"
+    "editor:insert-wikilink",
+    "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-on-current"
   ],
   "showInlineTitle": false,
-  "spellcheck": true
+  "spellcheck": false
 }

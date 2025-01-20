@@ -1,12 +1,12 @@
 {
-  "accentColor": "#723d9e",
-  "cssTheme": "",
+  "accentColor": "#a281a1",
+  "cssTheme": "Dawn",
   "enabledCssSnippets": [
     "style"
   ],
   "nativeMenus": false,
-  "textFontFamily": "",
-  "interfaceFontFamily": "",
+  "textFontFamily": "Courier New",
+  "interfaceFontFamily": "Courier New",
   "translucency": true,
   "theme": "system",
   "baseFontSize": 15

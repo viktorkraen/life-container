@@ -1,12 +1,12 @@
 {
-  "accentColor": "#723d9e",
-  "cssTheme": "",
+  "accentColor": "#d0b4cf",
+  "cssTheme": "Gitsidian",
   "enabledCssSnippets": [
     "style"
   ],
   "nativeMenus": false,
-  "textFontFamily": "",
-  "interfaceFontFamily": "",
+  "textFontFamily": "Futura",
+  "interfaceFontFamily": "Futura",
   "translucency": true,
   "theme": "system",
   "baseFontSize": 15

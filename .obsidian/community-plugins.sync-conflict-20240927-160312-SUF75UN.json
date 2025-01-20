@@ -5,6 +5,8 @@
   "giphy",
   "obsidian-icon-folder",
   "various-complements",
+  "tabs",
+  "advanced-canvas",
   "dashboard-navigator",
   "obsidian-to-anki-plugin",
   "obsidian-pandoc",
@@ -12,7 +14,5 @@
   "obsidian-reading-time",
   "simple-time-tracker",
   "show-whitespace-cm6",
-  "obsidian-git",
-  "theme-picker",
-  "table-editor-obsidian"
+  "obsidian-git"
 ]

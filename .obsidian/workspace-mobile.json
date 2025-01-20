@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "All notes/JavaScript.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "236228926a94aade",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "35bb5cff50399684",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1faae94e04a1bb32",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Ver",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3e6f2bf86041b34c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "dc71f58ea0df4c98",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "3332a6f09f95663f",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c2eff3f7be5b3c7f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6dde64386a3e0c38",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "All notes/JavaScript.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fd776f2a0084783e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "All notes/JavaScript.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "85d54b18e122c322",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "All notes/JavaScript.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "zk-prefixer:Neue eindeutige Notiz erstellen": false,
+      "random-note:Zufällige Notiz öffnen": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "All notes/React Native.md",
+    "All notes/ReactNative - flex 1.md",
+    "All notes/ReactNative - працездатність.md",
+    "All notes/JavaScript.md",
+    "Меню (Українською) 🇺🇦.md",
+    "All notes/Раціони на тиждень.md",
+    "All notes/Раціон №1.md",
+    "All notes/Інформація щодо мого котенятка.md",
+    "All notes/Моє котенятко - день народження її мами.md",
+    "All notes/Моя імпровізація для неї.md",
+    "All notes/Мій стиль.md",
+    "All notes/MacOS.md",
+    "All notes/Dart.md",
+    "All notes/Dart - відмінність від Flutter.md",
+    "All notes/Flutter.md",
+    "All notes/Flutter - AnimatedTextKit віджет.md",
+    "All notes/Flutter - робота зі станами за допомогою ChangeNotifierProvider.md",
+    "All notes/SDK - визначення.md",
+    "All notes/Dart - наслідування класів.md",
+    "All notes/Dart - Iterable.md",
+    "All notes/Dart - оголошення коротких стрілочних (анонімних) функцій.md",
+    "All notes/Dart - виконання коду.md",
+    "All notes/Unbenannt.md",
+    "All notes/Adverben.md",
+    "All notes/Verben.md",
+    "All notes/Python.md",
+    "Media/tikgobot_instagram_1725621183430.mp4",
+    "Media/il_1588xN.3676175524_eqms.webp",
+    "Media/1d72b0a461076971f16dc1e3a4655f7b.gif",
+    "Canvas/Struktur.canvas",
+    "Templates/For tags",
+    "Excalidraw",
+    "Media/Ink/Drawing/2024.7.7 - 19.29pm.drawing",
+    "Media/Ink",
+    "Media/Ink/Drawing/2024.7.7 - 19.28pm.drawing",
+    "Media/Ink/Drawing",
+    "Deutsch/Sprache lernen/Wörter",
+    "Deutsch/Sprache lernen",
+    "Settings/Media/Pasted image 20240503014500.png"
+  ]
+}

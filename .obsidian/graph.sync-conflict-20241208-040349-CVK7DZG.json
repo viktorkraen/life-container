@@ -8,10 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file: t3mplate",
+      "query": "tag: #fd",
       "color": {
         "a": 1,
-        "rgb": 8388863
+        "rgb": 6666476
+      }
+    },
+    {
+      "query": "tag: #fe",
+      "color": {
+        "a": 1,
+        "rgb": 920319
       }
     },
     {
@@ -25,42 +32,35 @@
       "query": "tag: #MOC",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 0
       }
     },
     {
       "query": "file:Русизм",
       "color": {
         "a": 1,
-        "rgb": 2302
+        "rgb": 16774912
       }
     },
     {
       "query": "file: ЛТС",
       "color": {
         "a": 1,
-        "rgb": 2302
+        "rgb": 16774912
       }
     },
     {
-      "query": "file:ПВУ",
+      "query": "file: t3mplate",
       "color": {
         "a": 1,
-        "rgb": 2302
-      }
-    },
-    {
-      "query": "file: Українська мова -",
-      "color": {
-        "a": 1,
-        "rgb": 262399
+        "rgb": 6097546
       }
     },
     {
       "query": "tag: #Blog",
       "color": {
         "a": 1,
-        "rgb": 65531
+        "rgb": 16711680
       }
     },
     {
@@ -77,10 +77,10 @@
   "nodeSizeMultiplier": 2.24996953696182,
   "lineSizeMultiplier": 1.09197468183049,
   "collapse-forces": false,
-  "centerStrength": 0.251139322916667,
-  "repelStrength": 11.3614908854167,
-  "linkStrength": 0.639200846354167,
-  "linkDistance": 500,
-  "scale": 0.07515644457424431,
+  "centerStrength": 0.495524088541667,
+  "repelStrength": 20,
+  "linkStrength": 0.5013427734375,
+  "linkDistance": 30,
+  "scale": 0.02601494621816346,
   "close": true
 }
