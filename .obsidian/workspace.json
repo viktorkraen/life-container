@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Menu.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Menu"
+              "title": "README"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Menu.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Menu"
+              "title": "Outline of README"
             }
           },
           {
@@ -175,8 +175,8 @@
   },
   "active": "65dd307d7ba8df81",
   "lastOpenFiles": [
-    "storage/projects/current/obsidian-spaced-repetition/tests/vaults/notes5/A.md",
     "Menu.md",
+    "storage/projects/current/obsidian-spaced-repetition/tests/vaults/notes5/A.md",
     "README.md",
     "storage/projects/current/obsidian-spaced-repetition/tests/vaults/notes1/Computation Graph.md",
     "storage/projects/current/obsidian-spaced-repetition/tests/vaults/notes5/B.md",

@@ -3,16 +3,25 @@
 
 # Unnecessary files
 storage/backups/*
+!storage/backups/.gitkeep
+
 storage/images/*
+!storage/images/.gitkeep
+
 storage/documents/*
+!storage/documents/.gitkeep
+
 storage/hotkeys/*
+!storage/hotkeys/.gitkeep
+
 storage/music/*
+!storage/music/.gitkeep
+
 storage/software/*
+!storage/software/.gitkeep
+
 storage/fonts/*
+!storage/fonts/.gitkeep
 
-## Projects
-storage/projects/sdk/*
-storage/projects/current/*
-storage/projects/old/*
-storage/projects/temporary/*
-
+storage/projects/*
+!storage/projects/.gitkeep
