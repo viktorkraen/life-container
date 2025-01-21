@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "console",
-      "path": "console.md"
-    },
-    {
       "basename": "menu",
       "path": "the-digital-brain/menu.md"
+    },
+    {
+      "basename": "console",
+      "path": "console.md"
     },
     {
       "basename": "moc-$template",
