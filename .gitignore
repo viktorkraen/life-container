@@ -1,16 +1,6 @@
 # IDE
 .vscode/
 
-# the-digital-brain
-the-digital-brain/media/*
-!the-digital-brain/media/.gitkeep
-
-the-digital-brain/templates/*
-!the-digital-brain/templates/.gitkeep
-
-the-digital-brain/notes/*
-!the-digital-brain/notes/.gitkeep
-
 # Unnecessary files
 storage/backups/*
 !storage/backups/.gitkeep
