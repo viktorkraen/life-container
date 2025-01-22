@@ -1,5 +1,6 @@
 # IDE
-.vscode/
+(?d).vscode
+(?d)**/.vscode
 
 # Unnecessary files
 # Commented out files are necessary
@@ -11,3 +12,23 @@ storage/hotkeys/*
 storage/software/*
 storage/projects/*
 # storage/fonts/*
+
+# Development
+(?d).gitkeep
+(?d)**/.gitkeep
+(?d).gitignore
+(?d)**/.gitignore
+(?d).gitattributes
+(?d)**/.gitattributes
+(?d).gitmodules
+(?d)**/.gitmodules
+(?d)**/node_modules
+(?d)node_modules/**
+
+# Syncthing
+(?d).stfolder
+(?d)**/.sync-conflict-*
+
+# OS
+(?d).DS_Store
+(?d)**/.DS_Store

@@ -9,16 +9,16 @@
       "path": "the-digital-brain/Menu.md"
     },
     {
+      "basename": "Draft",
+      "path": "the-digital-brain/notes/Draft.md"
+    },
+    {
       "basename": "console",
       "path": "console.md"
     },
     {
       "basename": "English",
       "path": "the-digital-brain/notes/English.md"
-    },
-    {
-      "basename": "Draft",
-      "path": "the-digital-brain/notes/Draft.md"
     },
     {
       "basename": "draft",

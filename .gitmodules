@@ -1,3 +1,8 @@
 [submodule "the-digital-brain"]
 	path = the-digital-brain
 	url = https://github.com/viktorkraen/the-digital-brain
+[url "https://gitlab.com/viktorkraen/the-digital-brain"]
+	insteadOf = https://github.com/viktorkraen/the-digital-brain
+[submodule ".obsidian/plugins/obsidian-spaced-repetition"]
+	path = .obsidian/plugins/obsidian-spaced-repetition
+	url = https://github.com/st3v3nmw/obsidian-spaced-repetition.git

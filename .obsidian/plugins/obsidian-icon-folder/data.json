@@ -48,7 +48,7 @@
   "the-digital-brain/README.md": "LiMessageCircleWarning",
   "the-digital-brain/notes": "LiNotebookTabs",
   "the-digital-brain/media": "LiBriefcaseMedical",
-  "the-digital-brain/menu.md": "LiMenu",
   "console.md": "LiFullscreen",
-  "the-digital-brain/templates": "LiLayoutTemplate"
+  "the-digital-brain/templates": "LiLayoutTemplate",
+  "the-digital-brain/Menu.md": "LiMenu"
 }

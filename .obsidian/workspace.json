@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "78d2a7af42488c51",
+        "id": "1ae8721d6a4ac924",
         "type": "tabs",
         "children": [
           {
-            "id": "ceca984a9cbc8fe5",
+            "id": "4d5b77d9033050a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the-digital-brain/menu.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "menu"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "draft",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +57,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Пошук"
+              "title": "Search"
             }
           },
           {
@@ -112,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "the-digital-brain/menu.md",
+                "file": "the-digital-brain/notes/Deutsch.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,11 +136,11 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of menu"
+              "title": "Graph of Deutsch"
             }
           },
           {
-            "id": "ab1d32d092f808fa",
+            "id": "13c6bf204c8a8626",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -153,7 +149,8 @@
               "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9ceb0a65ba29fbed",
@@ -196,11 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "the-digital-brain/menu.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of menu"
+              "title": "Outline"
             }
           },
           {
@@ -225,6 +220,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-spaced-repetition:Review flashcards": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -234,14 +230,21 @@
       "zk-prefixer:Create new unique note": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
-      "dashboard-navigator:Open dashboard navigator": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "ceca984a9cbc8fe5",
+  "active": "13c6bf204c8a8626",
   "lastOpenFiles": [
+    "the-digital-brain/notes/Deutsch.md",
+    "the-digital-brain/Menu.md",
     "console.md",
-    "the-digital-brain/menu.md",
+    "the-digital-brain/notes/English.md",
+    "the-digital-brain/notes/Draft.md",
+    "the-digital-brain/media/draft.png",
+    "the-digital-brain/media/terminal.png",
+    "the-digital-brain/media/draft-wallpaper.png",
+    "changelog.md",
+    "changelog.txt",
     "the-digital-brain/templates/moc-$template.md",
     "README.md",
     "storage/backups/obsidian/backup as of 18.01.2025/ai_knowledge/Меню (Українською) 🇺🇦.md",
@@ -249,7 +252,6 @@
     "the-digital-brain/templates",
     "storage/backups/obsidian/backup as of 26.10.2024/obsidian/Меню (Українською) 🇺🇦.md",
     "the-digital-brain/media/black-books.png",
-    "the-digital-brain/media/Pasted image 20250120235423.png",
     "console.md.md",
     "the-digital-brain/media",
     "Media/Pasted image 20250120235142.png",
@@ -273,10 +275,6 @@
     "All notes/Математика - варіації без повторень з великими числами.md",
     "All notes/JavaScript.md",
     "All notes/React Native.md",
-    "All notes/ReactNative-Expo - старт проєкту.md",
-    "All notes/ReactNative - flex 1.md",
-    "All notes/ReactNative - вставка JS обʼєктів до JSX компонентів.md",
-    "All notes/ReactNative - створення обʼєкту стилів.md",
     "Canvas/magic-vault.canvas",
     "Canvas/Структура бази знань.canvas",
     "Canvas/Структура навчання.canvas",
@@ -287,14 +285,11 @@
     "Canvas/aiogrambot - структура.canvas",
     "Canvas/tgbot_nicknema - структура.canvas",
     "Media/Mobile.png",
-    "All notes/Мій стиль.md.tmp",
     "Canvas/Aiogramskeleton - структура.canvas",
     "Canvas/Nicknema - структура.canvas",
     "Media/PC.png",
     "Canvas/aiogramskeleton - структура.canvas",
     "Media/Download.jpeg",
-    "Media/Pasted image 20241013145910.png",
-    "Media/Pasted image 20241008180236.png",
     "Canvas/Struktur.canvas"
   ]
 }
