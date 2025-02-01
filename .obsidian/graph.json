@@ -15,6 +15,13 @@
       }
     },
     {
+      "query": "file:menu",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
       "query": "tag:#MOC ",
       "color": {
         "a": 1,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 2.5853606806190763,
+  "scale": 1.9131188607073357,
   "close": true
 }

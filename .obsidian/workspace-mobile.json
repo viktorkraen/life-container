@@ -11,6 +11,23 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "2f61e5c7dca22e45"
+          }
+        ]
+      },
+      {
+        "id": "c5ea5644d294b872",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f572e3ee7de33f8d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "the-digital-brain/notes/Deutsch.md",
@@ -19,7 +36,8 @@
               },
               "icon": "lucide-file",
               "title": "Deutsch"
-            }
+            },
+            "group": "2f61e5c7dca22e45"
           }
         ]
       }
@@ -170,6 +188,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "924a49ad8142118b",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -192,14 +220,25 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6dde64386a3e0c38",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "the-digital-brain/Menu.md",
-    "the-digital-brain/notes/Draft.md",
-    "console.md",
     "the-digital-brain/notes/Deutsch.md",
-    "the-digital-brain/notes/English.md",
+    "the-digital-brain/modules/language-learning/tts/713b09f6-6353-4174-aafd-888b2a0f24a2.mp3",
+    "the-digital-brain/modules/language-learning/tts/826eb258-5570-4ea6-97cd-b0801aac8337.mp3",
     "the-digital-brain/menu.md",
+    "console.md",
+    "the-digital-brain/modules/language-learning/tts/8200a60e-55a0-46c8-9f2b-72ead92ef37e.mp3",
+    "the-digital-brain/modules/language-learning/tts/e82da384-152e-413f-8daf-42fa94e28424.mp3",
+    "the-digital-brain/modules/language-learning/tts/c043d55a-3cc7-449f-8a6b-ce0b87efc09a.mp3",
+    "the-digital-brain/modules/language-learning/tts/35cc49da-5f00-484a-b2b7-37a0400cdc97.mp3",
+    "the-digital-brain/modules/language-learning/tts/c64f069d-ea42-43ce-ac4f-5ec75318b3a1.mp3",
+    "the-digital-brain/modules/language-learning/tts/4a075cc7-9590-4fc2-87c4-1f080e0c62ed.mp3",
+    "the-digital-brain/modules/language-learning/tts/550b0cd1-1320-4f85-8d30-708ed04cb1fd.mp3",
+    "the-digital-brain/modules/language-learning/tts/60446b9e-c4eb-4c1c-8040-710875e30ea9.mp3",
+    "the-digital-brain/Menu.md",
+    "the-digital-brain/notes/Ukrainian.md",
+    "the-digital-brain/notes/Draft.md",
+    "the-digital-brain/notes/English.md",
     "README.md",
     "docs/LC.md",
     "docs/LC1.md",
@@ -218,20 +257,9 @@
     "All notes/Dart.md",
     "All notes/Dart - відмінність від Flutter.md",
     "All notes/Flutter.md",
-    "All notes/Flutter - AnimatedTextKit віджет.md",
-    "All notes/Flutter - робота зі станами за допомогою ChangeNotifierProvider.md",
-    "Media/tikgobot_instagram_1725621183430.mp4",
     "Media/il_1588xN.3676175524_eqms.webp",
     "Media/1d72b0a461076971f16dc1e3a4655f7b.gif",
     "Canvas/Struktur.canvas",
-    "Templates/For tags",
-    "Excalidraw",
-    "Media/Ink/Drawing/2024.7.7 - 19.29pm.drawing",
-    "Media/Ink",
-    "Media/Ink/Drawing/2024.7.7 - 19.28pm.drawing",
-    "Media/Ink/Drawing",
-    "Deutsch/Sprache lernen/Wörter",
-    "Deutsch/Sprache lernen",
     "Settings/Media/Pasted image 20240503014500.png"
   ]
 }

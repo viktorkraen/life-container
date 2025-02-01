@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1ae8721d6a4ac924",
+        "id": "ea5003caba9e02bb",
         "type": "tabs",
         "children": [
           {
-            "id": "4d5b77d9033050a6",
+            "id": "8497034c28e60c2e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "the-digital-brain/notes/Deutsch.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Deutsch"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "draft",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +104,7 @@
       {
         "id": "ff90cfcc3b4f1e51",
         "type": "tabs",
-        "dimension": 52.575488454706935,
+        "dimension": 26.287744227353468,
         "children": [
           {
             "id": "1dc53fe7991a73ec",
@@ -138,19 +142,27 @@
               "icon": "lucide-git-fork",
               "title": "Graph of Deutsch"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "e672332637679344",
+        "type": "tabs",
+        "dimension": 26.287744227353468,
+        "children": [
           {
-            "id": "13c6bf204c8a8626",
+            "id": "8ffadf681e9ce9b3",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "type": "outline",
+              "state": {
+                "file": "the-digital-brain/notes/Deutsch.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Deutsch"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9ceb0a65ba29fbed",
@@ -163,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "the-digital-brain/Menu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Зворотні посилання"
+              "title": "Backlinks for Menu"
             }
           },
           {
@@ -185,17 +198,7 @@
                 "useHierarchy": false
               },
               "icon": "lucide-tags",
-              "title": "Мітки"
-            }
-          },
-          {
-            "id": "8ffadf681e9ce9b3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {},
-              "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Tags"
             }
           },
           {
@@ -204,15 +207,26 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "the-digital-brain/Menu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Вихідні посилання"
+              "title": "Outgoing links from Menu"
+            }
+          },
+          {
+            "id": "13c6bf204c8a8626",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -233,63 +247,62 @@
       "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "13c6bf204c8a8626",
+  "active": "8497034c28e60c2e",
   "lastOpenFiles": [
-    "the-digital-brain/notes/Deutsch.md",
-    "the-digital-brain/Menu.md",
-    "console.md",
     "the-digital-brain/notes/English.md",
-    "the-digital-brain/notes/Draft.md",
-    "the-digital-brain/media/draft.png",
-    "the-digital-brain/media/terminal.png",
-    "the-digital-brain/media/draft-wallpaper.png",
-    "changelog.md",
-    "changelog.txt",
-    "the-digital-brain/templates/moc-$template.md",
+    "the-digital-brain/notes/Deutsch.md",
+    "the-digital-brain/menu.md",
+    "console.md",
+    "the-digital-brain/modules/language-learning/tts/713b09f6-6353-4174-aafd-888b2a0f24a2.mp3",
+    "the-digital-brain/modules/language-learning/tts/826eb258-5570-4ea6-97cd-b0801aac8337.mp3",
+    "the-digital-brain/modules/language-learning/tts/c043d55a-3cc7-449f-8a6b-ce0b87efc09a.mp3",
+    "the-digital-brain/modules/language-learning/tts/35cc49da-5f00-484a-b2b7-37a0400cdc97.mp3",
+    "the-digital-brain/modules/language-learning/tts/e82da384-152e-413f-8daf-42fa94e28424.mp3",
+    "the-digital-brain/modules/language-learning/tts/8200a60e-55a0-46c8-9f2b-72ead92ef37e.mp3",
+    "the-digital-brain/modules/language-learning/tts/4a075cc7-9590-4fc2-87c4-1f080e0c62ed.mp3",
+    "the-digital-brain/modules/language-learning/tts/c64f069d-ea42-43ce-ac4f-5ec75318b3a1.mp3",
+    "the-digital-brain/modules/language-learning/tts/550b0cd1-1320-4f85-8d30-708ed04cb1fd.mp3",
+    "the-digital-brain/modules/language-learning/tts/60446b9e-c4eb-4c1c-8040-710875e30ea9.mp3",
+    "the-digital-brain/notes/Deutsch.sync-conflict-20250201-011144-SUF75UN.md",
+    "storage/projects/current/life_container_helper/build/dynamic_color/intermediates/merged_res/release/drawable-xxhdpi-v4/ic_call_decline.png",
+    "storage/projects/current/life_container_helper/build/dynamic_color/intermediates/merged_res/release/drawable-xxhdpi-v4/ic_call_decline_low.png",
+    "storage/projects/current/life_container_helper/build/dynamic_color/intermediates/merged_res/release/drawable-xxhdpi-v4/ic_call_answer_video.png",
+    "storage/projects/current/life_container_helper/build/dynamic_color/intermediates/merged_res/release/drawable-xxhdpi-v4/ic_call_answer_video_low.png",
+    "storage/projects/current/life_container_helper/build/dynamic_color/intermediates/merged_res/release/drawable-xxhdpi-v4/ic_call_answer_low.png",
+    "storage/projects/current/life_container_helper/build/dynamic_color/intermediates/merged_res/release/drawable-xxhdpi-v4/ic_call_answer.png",
+    "storage/projects/current/life_container_helper/build/dynamic_color/intermediates/merged_res/release/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+    "storage/projects/current/life_container_helper/build/dynamic_color/intermediates/merged_res/release/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+    "storage/projects/current/life_container_helper/build/dynamic_color/intermediates/merged_res/release/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+    "storage/projects/current/life_container_helper/build/dynamic_color/intermediates/merged_res/release/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+    "docs/LC1.md",
+    "docs/LC.md",
     "README.md",
+    "the-digital-brain/README.md",
+    "the-digital-brain/notes/Ukrainian.md",
+    "storage/projects/current/life_container_helper/life_container_helper_new/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
+    "storage/projects/current/life_container_helper/life_container_helper_new/README.md",
+    "the-digital-brain/notes/Draft.md",
+    "the-digital-brain/canvases/obsidian-spaced-repetition.canvas",
+    "test_with_tts.md",
+    "storage/projects/current/life_container_helper/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
+    "storage/projects/current/life_container_helper/README.md",
+    "the-digital-brain/notes/Deutsch.sync-conflict-20250128-214655-SUF75UN.md",
+    "obsidian-spaced-repetition.canvas",
+    "the-digital-brain/notes/English.sync-conflict-20250126-134732-SUF75UN.md",
+    "storage/backups/obsidian/backup as of 18.01.2025/ai_knowledge/All notes/Раціони на тиждень.md",
+    "storage/backups/obsidian/backup as of 18.01.2025/ai_knowledge/All notes/Раціон №1.md",
     "storage/backups/obsidian/backup as of 18.01.2025/ai_knowledge/Меню (Українською) 🇺🇦.md",
-    "the-digital-brain/notes/Без назви.md",
-    "the-digital-brain/templates",
-    "storage/backups/obsidian/backup as of 26.10.2024/obsidian/Меню (Українською) 🇺🇦.md",
-    "the-digital-brain/media/black-books.png",
-    "console.md.md",
-    "the-digital-brain/media",
-    "Media/Pasted image 20250120235142.png",
-    "Media",
-    "the-digital-brain/banners",
-    "the-digital-brain/notes/a.md",
-    "the-digital-brain/menu.md.md",
-    "the-digital-brain/notes",
-    "Menu.md",
-    "the-digital-brain/scripts/execute.js",
-    "the-digital-brain/scripts",
-    "Меню (Українською) 🇺🇦.md",
-    "All notes/Flutter - робота зі станами за допомогою ChangeNotifierProvider.md",
-    "All notes/ПВУ - поелементно.md",
-    "All notes/Flutter.md",
-    "All notes/Робочий стіл.md",
-    "All notes/Dart - Iterable.md",
-    "All notes/Dart - Iterator.md",
+    "storage/backups/obsidian/backup as of 18.01.2025/ai_knowledge/All notes/Вдосконалення української.md",
+    "storage/backups/obsidian/backup as of 18.01.2025/ai_knowledge/Menü (Deutsch) 🇩🇪.md",
+    "storage/backups/obsidian/backup as of 18.01.2025/ai_knowledge/Menu (English) 🇬🇧.md",
+    "storage/backups/obsidian/backup as of 18.01.2025/ai_knowledge/All notes/Dart - Iterator.md",
     "Canvas/ai-linguist.canvas",
-    "All notes/Математика.md",
-    "All notes/Математика - варіації без повторень з великими числами.md",
-    "All notes/JavaScript.md",
-    "All notes/React Native.md",
     "Canvas/magic-vault.canvas",
     "Canvas/Структура бази знань.canvas",
     "Canvas/Структура навчання.canvas",
-    "Languages",
-    "All notes/Python - створення контекстного менеджеру за допомогою функції.md.tmp",
-    "Media/Pasted image 20241225020034.png",
-    "Media/black.jpg",
     "Canvas/aiogrambot - структура.canvas",
     "Canvas/tgbot_nicknema - структура.canvas",
-    "Media/Mobile.png",
     "Canvas/Aiogramskeleton - структура.canvas",
-    "Canvas/Nicknema - структура.canvas",
-    "Media/PC.png",
-    "Canvas/aiogramskeleton - структура.canvas",
-    "Media/Download.jpeg",
-    "Canvas/Struktur.canvas"
+    "Canvas/Nicknema - структура.canvas"
   ]
 }

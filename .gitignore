@@ -1,37 +1,51 @@
-# IDE
+# # # # IDE # # # # 
 .vscode/
 
-# Unnecessary files
+# # # # Unnecessary files # # # # 
 storage/backups/*
 !storage/backups/.gitkeep
 
+# # # # Images # # # # 
 storage/images/*
 !storage/images/.gitkeep
 
+# # # # Documents # # # # 
 storage/documents/*
 !storage/documents/.gitkeep
 
+# # # # Hotkeys # # # # 
 storage/hotkeys/*
 !storage/hotkeys/.gitkeep
 
+# # # # Music # # # # 
 storage/music/*
 !storage/music/.gitkeep
 
+# # # # Software # # # # 
 storage/software/*
 !storage/software/.gitkeep
 
+# # # # Fonts # # # # 
 storage/fonts/*
 !storage/fonts/.gitkeep
 
+# # # # Projects # # # # 
 storage/projects/*
 !storage/projects/.gitkeep
 
-# Development
+# # # # Development # # # # 
 //node_modules
 
-# Syncthing
+# # # # Syncthing # # # # 
 .stfolder/
-**/.sync-conflict-*
+# Sync conflicts
+**/*sync-conflict*
 
-# OS
+# # # # Obsidian # # # # 
+# Plugins
+.obsidian/plugins/recent-files-obsidian/data.json
+
+
+# # # # OS # # # # 
+.trash/
 .DS_Store*

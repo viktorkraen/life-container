@@ -1,8 +1,8 @@
-# IDE
+# # # # IDE # # # # 
 (?d).vscode
 (?d)**/.vscode
 
-# Unnecessary files
+# # # # Unnecessary files # # # # 
 # Commented out files are necessary
 storage/backups/*
 # storage/images/*
@@ -13,7 +13,7 @@ storage/software/*
 storage/projects/*
 # storage/fonts/*
 
-# Development
+# # # # Development # # # # 
 (?d).gitkeep
 (?d)**/.gitkeep
 (?d).gitignore
@@ -25,10 +25,10 @@ storage/projects/*
 (?d)**/node_modules
 (?d)node_modules/**
 
-# Syncthing
+# # # # Syncthing # # # # 
 (?d).stfolder
-(?d)**/.sync-conflict-*
+(?d)**/*sync-conflict*
 
-# OS
+# # # # OS # # # # 
 (?d).DS_Store
 (?d)**/.DS_Store
