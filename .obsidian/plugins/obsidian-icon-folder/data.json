@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🖼",
+      "LiSettings",
       "LiSpeech",
       "LiEarth",
-      "LiDiamondPlus",
-      "LiMap",
-      "LiLayoutTemplate"
+      "LiDiamondPlus"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -54,5 +54,7 @@
   "the-digital-brain/modules": "LiDiamondPlus",
   "the-digital-brain/modules/language-learning": "LiEarth",
   "the-digital-brain/modules/language-learning/tts": "LiSpeech",
-  "the-digital-brain/menu.md": "LiMenu"
+  "the-digital-brain/menu.md": "LiMenu",
+  "the-digital-brain/modules/language-learning/service": "LiSettings",
+  "the-digital-brain/modules/language-learning/service/backgrounds": "🖼"
 }

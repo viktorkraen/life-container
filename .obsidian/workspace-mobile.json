@@ -4,23 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            },
-            "group": "2f61e5c7dca22e45"
-          }
-        ]
-      },
-      {
         "id": "c5ea5644d294b872",
         "type": "tabs",
         "children": [
@@ -30,14 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the-digital-brain/notes/Deutsch.md",
-                "mode": "source",
+                "file": "console.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deutsch"
-            },
-            "group": "2f61e5c7dca22e45"
+              "title": "console"
+            }
           }
         ]
       }
@@ -66,7 +48,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Ver",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -74,7 +56,7 @@
             "sortOrder": "alphabetical"
           },
           "icon": "lucide-search",
-          "title": "Suchen"
+          "title": "Search"
         }
       },
       {
@@ -116,6 +98,16 @@
         "state": {
           "type": "recent-files",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "c3e8f23b7703b1e1",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {},
           "icon": "clock",
           "title": "Recent Files"
         }
@@ -133,7 +125,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "the-digital-brain/notes/Deutsch.md",
+            "file": "the-digital-brain/modules/language-learning/Deutsch/DE - Ich Möchte Maschinenbau Studieren.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -198,6 +190,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "f17720ef286fb31d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -220,43 +222,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f572e3ee7de33f8d",
   "lastOpenFiles": [
-    "the-digital-brain/notes/Deutsch.md",
-    "the-digital-brain/modules/language-learning/tts/713b09f6-6353-4174-aafd-888b2a0f24a2.mp3",
-    "the-digital-brain/modules/language-learning/tts/826eb258-5570-4ea6-97cd-b0801aac8337.mp3",
-    "the-digital-brain/menu.md",
-    "console.md",
-    "the-digital-brain/modules/language-learning/tts/8200a60e-55a0-46c8-9f2b-72ead92ef37e.mp3",
-    "the-digital-brain/modules/language-learning/tts/e82da384-152e-413f-8daf-42fa94e28424.mp3",
-    "the-digital-brain/modules/language-learning/tts/c043d55a-3cc7-449f-8a6b-ce0b87efc09a.mp3",
-    "the-digital-brain/modules/language-learning/tts/35cc49da-5f00-484a-b2b7-37a0400cdc97.mp3",
-    "the-digital-brain/modules/language-learning/tts/c64f069d-ea42-43ce-ac4f-5ec75318b3a1.mp3",
-    "the-digital-brain/modules/language-learning/tts/4a075cc7-9590-4fc2-87c4-1f080e0c62ed.mp3",
-    "the-digital-brain/modules/language-learning/tts/550b0cd1-1320-4f85-8d30-708ed04cb1fd.mp3",
-    "the-digital-brain/modules/language-learning/tts/60446b9e-c4eb-4c1c-8040-710875e30ea9.mp3",
-    "the-digital-brain/Menu.md",
-    "the-digital-brain/notes/Ukrainian.md",
-    "the-digital-brain/notes/Draft.md",
-    "the-digital-brain/notes/English.md",
     "README.md",
-    "docs/LC.md",
-    "docs/LC1.md",
-    "All notes/React Native.md",
-    "All notes/ReactNative - flex 1.md",
-    "All notes/ReactNative - працездатність.md",
-    "All notes/JavaScript.md",
-    "Меню (Українською) 🇺🇦.md",
-    "All notes/Раціони на тиждень.md",
-    "All notes/Раціон №1.md",
-    "All notes/Інформація щодо мого котенятка.md",
-    "All notes/Моє котенятко - день народження її мами.md",
-    "All notes/Моя імпровізація для неї.md",
-    "All notes/Мій стиль.md",
-    "All notes/MacOS.md",
-    "All notes/Dart.md",
-    "All notes/Dart - відмінність від Flutter.md",
-    "All notes/Flutter.md",
+    "the-digital-brain/modules/language-learning/Deutsch/pos/Sätze.md",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - Ich Hoffe Dass Das Wetter Schön Sein Wird.md",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - Ich hoffe.md",
+    "the-digital-brain/modules/language-learning/Deutsch/Deutsch.md",
+    "console.md",
+    "the-digital-brain/modules/language-learning/English/EN - The dog is barking loudly.md",
+    "the-digital-brain/modules/language-learning/English/pos/Sentences.md",
+    "the-digital-brain/modules/language-learning/English/English.md",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - Der Hund läuft schnell im Park.md",
+    "the-digital-brain/modules/language-learning/English/pos/Adverbs.md",
+    "the-digital-brain/modules/language-learning/English/pos/Adjectives.md",
+    "the-digital-brain/modules/language-learning/English/pos/Verbs.md",
+    "the-digital-brain/modules/language-learning/English/pos/Nouns.md",
+    "the-digital-brain/modules/language-learning/English/pos",
+    "the-digital-brain/modules/language-learning/English",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - Der Besen liegt im Schrank.md",
+    "the-digital-brain/modules/language-learning/Deutsch/pos/Adverbien.md",
+    "the-digital-brain/modules/language-learning/Deutsch/pos/Adjektive.md",
+    "the-digital-brain/modules/language-learning/Deutsch/pos/Verben.md",
+    "the-digital-brain/modules/language-learning/Deutsch/pos/Nomen.md",
+    "the-digital-brain/modules/language-learning/Deutsch/pos",
+    "the-digital-brain/modules/language-learning/Deutsch",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - Der Stern leuchtet hell in der Nacht.md",
+    "the-digital-brain/modules/language-learning/Deutsch/Sätze/DE - Der Ball ist im Garten.md",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - Ich Möchte Maschinenbau Studieren.md",
+    "the-digital-brain/modules/language-learning/tts/45457daa-2062-42f9-9265-a00d5d5f4841.mp3",
+    "the-digital-brain/modules/language-learning/tts/fd295d6d-48d1-4f6b-a9c9-0c5fd639577c.mp3",
+    "the-digital-brain/modules/language-learning/tts/48ed1a66-191c-40e2-939b-0860f7c36a02.mp3",
+    "the-digital-brain/modules/language-learning/tts/96e9c64a-0ef2-4ffb-bb2d-60e03e47cc1c.mp3",
+    "the-digital-brain/modules/language-learning/tts/40171ce2-c08f-4760-a43f-865c708cf0df.mp3",
+    "the-digital-brain/modules/language-learning/tts/ff4c2208-2e6f-46f6-a295-4de61062d33d.mp3",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - Ich warte.md",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - Die Batteriekapazität beträgt 3000 Milliampere..md",
+    "the-digital-brain/menu.md",
+    "the-digital-brain/modules/language-learning/Deutsch/DE - Ich Muss Diesen Fehler Beheben.md",
     "Media/il_1588xN.3676175524_eqms.webp",
     "Media/1d72b0a461076971f16dc1e3a4655f7b.gif",
     "Canvas/Struktur.canvas",

@@ -45,7 +45,6 @@ storage/projects/*
 # Plugins
 .obsidian/plugins/recent-files-obsidian/data.json
 
-
 # # # # OS # # # # 
 .trash/
 .DS_Store*
