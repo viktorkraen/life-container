@@ -55,6 +55,5 @@
   "the-digital-brain/modules/language-learning": "LiEarth",
   "the-digital-brain/modules/language-learning/tts": "LiSpeech",
   "the-digital-brain/menu.md": "LiMenu",
-  "the-digital-brain/modules/language-learning/service": "LiSettings",
-  "the-digital-brain/modules/language-learning/service/backgrounds": "🖼"
+  "the-digital-brain/modules/service-banners": "🖼"
 }

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1a0b2d6687f593ac",
+        "id": "08934d6fa477be06",
         "type": "tabs",
         "children": [
           {
-            "id": "f6bc80c1d7d9baf0",
+            "id": "d471ea1ff51b6f63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the-digital-brain/notes/Draft.md",
-                "mode": "source",
+                "file": "the-digital-brain/modules/language-learning/Deutsch/Deutsch.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Draft"
+              "title": "Deutsch"
             }
           }
         ]
@@ -41,7 +41,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -112,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "the-digital-brain/notes/Draft.md",
+                "file": "the-digital-brain/modules/language-learning/Deutsch/Deutsch.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,10 +141,21 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Draft"
+              "title": "Graph of Deutsch"
+            }
+          },
+          {
+            "id": "c2b02bfc5fcaf15c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "eb3874e1791f1a9d",
@@ -173,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the-digital-brain/Menu.md",
+                "file": "the-digital-brain/modules/language-learning/Deutsch/Deutsch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Menu"
+              "title": "Backlinks for Deutsch"
             }
           },
           {
@@ -219,14 +231,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the-digital-brain/notes/Draft.md"
+                "file": "the-digital-brain/modules/language-learning/Deutsch/Deutsch.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Draft"
+              "title": "Outline of Deutsch"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -234,7 +248,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-spaced-repetition:Review flashcards": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -244,57 +257,58 @@
       "zk-prefixer:Create new unique note": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
-      "dashboard-navigator:Open dashboard navigator": false
+      "dashboard-navigator:Open dashboard navigator": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f6bc80c1d7d9baf0",
+  "active": "d471ea1ff51b6f63",
   "lastOpenFiles": [
-    "storage/projects/current/life_container_helper/build/app/outputs/apk/release/output-metadata.json",
-    "storage/projects/current/life_container_helper/build/app/intermediates/incremental/packageRelease/tmp/release/zip-cache/androidResources",
+    "the-digital-brain/modules/service-banners/Noun.png",
+    "the-digital-brain/modules/service-banners/Sentence.png",
+    "the-digital-brain/modules/service-banners/Verb.png",
+    "the-digital-brain/modules/service-banners/Adverb.png",
+    "the-digital-brain/modules/service-banners/Ukrainian.png",
+    "the-digital-brain/modules/service-banners/German.png",
+    "the-digital-brain/modules/service-banners/English.png",
+    "the-digital-brain/modules/service-banners/Adjective.png",
+    "the-digital-brain/media/food.png",
+    "the-digital-brain/media/draft.png",
+    "the-digital-brain/modules/service-banners/terminal.png",
+    "the-digital-brain/modules/service-banners",
+    "the-digital-brain/modules/banners",
+    "storage/projects/current/life_container_helper/build/app/outputs/flutter-apk/app-release.apk.sha1",
+    "storage/projects/current/life_container_helper/build/app/outputs/flutter-apk/app-release.apk",
+    "storage/projects/current/life_container_helper/build/app/intermediates/apk_ide_redirect_file/release/redirect.txt",
+    "storage/projects/current/life_container_helper/build/app/intermediates/apk_ide_redirect_file/release",
     "storage/projects/current/life_container_helper/build/app/intermediates/incremental/packageRelease/tmp/release/zip-cache/javaResources0",
-    "storage/projects/current/life_container_helper/build/app/outputs/apk/release/app-release.apk",
-    "storage/projects/current/life_container_helper/build/app/intermediates/merged_java_res/release/base.jar",
-    "storage/projects/current/life_container_helper/build/app/outputs/mapping/release/configuration.txt",
-    "storage/projects/current/life_container_helper/build/app/intermediates/merged_art_profile/release/baseline-prof.txt",
-    "storage/projects/current/life_container_helper/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex",
-    "storage/projects/current/life_container_helper/build/app/outputs/mapping/release/mapping.txt",
-    "storage/projects/current/life_container_helper/build/app/outputs/mapping/release/usage.txt",
-    "storage/projects/current/life_container_helper/build/app/outputs/mapping/release/seeds.txt",
+    "storage/projects/current/life_container_helper/build/app/intermediates/incremental/packageRelease/tmp/release/zip-cache/androidResources",
+    "storage/projects/current/life_container_helper/build/app/intermediates/incremental/packageRelease/tmp/release/zip-cache",
+    "storage/projects/current/life_container_helper/build/app/intermediates/incremental/packageRelease/tmp/release/dex-renamer-state.txt",
+    "storage/projects/current/life_container_helper/CHANGELOGS.md",
+    "the-digital-brain/modules/language-learning/Deutsch/pos/Sätze.md",
+    "the-digital-brain/modules/language-learning/Deutsch/Deutsch.md",
+    "console.md",
+    "the-digital-brain/modules/language-learning/English/pos/Adverbs.md",
+    "the-digital-brain/modules/language-learning/English/pos/Adjectives.md",
+    "the-digital-brain/modules/language-learning/English/pos/Verbs.md",
+    "the-digital-brain/modules/language-learning/English/pos/Nouns.md",
+    "the-digital-brain/modules/language-learning/English/pos/Sentences.md",
+    "the-digital-brain/modules/language-learning/English/English.md",
+    "the-digital-brain/modules/language-learning/English/EN - Window Windows.md",
+    "the-digital-brain/menu.md",
+    "the-digital-brain/notes/Draft.md",
     "the-digital-brain/modules/language-learning/Deutsch/DE - Ich Hoffe Dass Das Wetter Schön Sein Wird.md",
     "the-digital-brain/modules/language-learning/Deutsch/DE - Ich hoffe.md",
     "the-digital-brain/modules/language-learning/Deutsch/DE - Der Hund läuft schnell im Park.md",
-    "the-digital-brain/modules/language-learning/English/pos/Verbs.md",
-    "the-digital-brain/modules/language-learning/English/pos/Nouns.md",
-    "the-digital-brain/modules/language-learning/English/pos/Adjectives.md",
-    "the-digital-brain/modules/language-learning/English/English.md",
-    "the-digital-brain/modules/language-learning/English/pos/Adverbs.md",
     "the-digital-brain/modules/language-learning/English/EN - The dog is barking loudly.md",
-    "the-digital-brain/modules/language-learning/English/pos/Sentences.md",
     "the-digital-brain/modules/language-learning/Deutsch/pos/Adverbien.md",
-    "the-digital-brain/modules/language-learning/Deutsch/pos/Sätze.md",
     "the-digital-brain/modules/language-learning/Deutsch/pos/Adjektive.md",
     "the-digital-brain/modules/language-learning/Deutsch/pos/Nomen.md",
     "the-digital-brain/modules/language-learning/Deutsch/DE - Der Besen liegt im Schrank.md",
-    "the-digital-brain/modules/language-learning/Deutsch/Deutsch.md",
     "the-digital-brain/modules/language-learning/Deutsch/pos/Verben.md",
     "the-digital-brain/modules/language-learning/Deutsch/DE - Der Stern leuchtet hell in der Nacht.md",
     "the-digital-brain/modules/language-learning/Deutsch/Sätze/DE - Der Ball ist im Garten.md",
-    "storage/projects/current/life_container_helper/build/app/intermediates/assets/debug/flutter_assets/images/cat.png",
-    "the-digital-brain/menu.md",
-    "console.md",
-    "the-digital-brain/notes/Draft.md",
-    "storage/projects/current/life_container_helper/build/url_launcher_android/intermediates/merged_res/release/drawable-xxxhdpi-v4/ic_call_decline_low.png",
-    "storage/projects/current/life_container_helper/build/url_launcher_android/intermediates/merged_res/release/drawable-xxxhdpi-v4/ic_call_answer_low.png",
-    "storage/projects/current/life_container_helper/build/url_launcher_android/intermediates/merged_res/release/drawable-xxxhdpi-v4/ic_call_decline.png",
-    "storage/projects/current/life_container_helper/build/url_launcher_android/intermediates/merged_res/release/drawable-xxxhdpi-v4/ic_call_answer_video_low.png",
-    "storage/projects/current/life_container_helper/build/url_launcher_android/intermediates/merged_res/release/drawable-xxxhdpi-v4/ic_call_answer_video.png",
-    "storage/projects/current/life_container_helper/build/url_launcher_android/intermediates/merged_res/release/drawable-xxxhdpi-v4/ic_call_answer.png",
-    "storage/projects/current/life_container_helper/build/url_launcher_android/intermediates/merged_res/release/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
-    "storage/projects/current/life_container_helper/build/url_launcher_android/intermediates/merged_res/release/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
-    "storage/projects/current/life_container_helper/build/url_launcher_android/intermediates/merged_res/release/drawable-xhdpi-v4/notification_bg_normal.9.png",
     "the-digital-brain/modules/language-learning/English/EN - lemur.md",
-    "the-digital-brain/notes/My diet.md",
-    "the-digital-brain/modules/language-learning/Українська/pos/Прислівники.md",
     "the-digital-brain/canvases/lc_to-do.canvas",
     "the-digital-brain/canvases/obsidian-spaced-repetition.canvas",
     "obsidian-spaced-repetition.canvas",
