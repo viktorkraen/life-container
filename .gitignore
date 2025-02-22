@@ -42,8 +42,7 @@ storage/projects/*
 **/*sync-conflict*
 
 # # # # Obsidian # # # # 
-# Plugins
-.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
 
 # # # # OS # # # # 
 .trash/
