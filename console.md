@@ -1,6 +1,6 @@
 ---
 banner: "![[terminal.png]]"
-banner_x: 0.41429
+banner_x: 0.48357
 ---
 
 `💻 Do not modify this file. It will be updated by the developers. Instead, modify the` [[menu]] `file that this file references. This will be your main MOC`
@@ -14,3 +14,5 @@ banner_x: 0.41429
 - 📚 [[menu|Your main menu]] `<- open this link to create/open the 'menu' file in the 'the-digital-brain' folder and start working`
 # 🗳️ About `life-container` idea
 - 🗒️ [[README|Documentation]]
+# 🌍 Learning languages
+- 🇩🇪 [[Deutsch]]
