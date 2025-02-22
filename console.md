@@ -14,5 +14,3 @@ banner_x: 0.48357
 - 📚 [[menu|Your main menu]] `<- open this link to create/open the 'menu' file in the 'the-digital-brain' folder and start working`
 # 🗳️ About `life-container` idea
 - 🗒️ [[README|Documentation]]
-# 🌍 Learning languages
-- 🇩🇪 [[Deutsch]]

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the-digital-brain/modules/language-learning/Deutsch/Deutsch.md",
+                "file": "console.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deutsch"
+              "title": "console"
             }
           }
         ],
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the-digital-brain/modules/language-learning/Deutsch/Deutsch.md",
+                "file": "console.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Deutsch"
+              "title": "Backlinks for console"
             }
           },
           {
@@ -278,6 +278,10 @@
   },
   "active": "f9b9cf8d577a6385",
   "lastOpenFiles": [
+    "the-digital-brain/modules/language-learning/Deutsch/Deutsch.md",
+    "storage/projects/current/life_container_helper/build/app/intermediates/assets/debug/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf",
+    "storage/projects/current/life_container_helper/build/app/intermediates/assets/debug/flutter_assets/packages/cupertino_icons/assets",
+    "storage/projects/current/life_container_helper/build/app/intermediates/assets/debug/flutter_assets/FontManifest.json",
     "storage/projects/current/life_container_helper/build/app/intermediates/project_dex_archive/debug/out/com/viktorkraen/life_container_helper/GitManager$Companion$cloneRepository$2.dex",
     "storage/projects/current/life_container_helper/build/app/intermediates/project_dex_archive/debug/out/com/viktorkraen/life_container_helper/MainActivity$configureFlutterEngine$1$1.dex",
     "storage/projects/current/life_container_helper/build/app/tmp/compileDebugJavaWithJavac/compileTransaction/stash-dir/GeneratedPluginRegistrant.class.uniqueId0",
@@ -285,10 +289,6 @@
     "storage/projects/current/life_container_helper/build/app/tmp/compileDebugJavaWithJavac/compileTransaction/backup-dir",
     "storage/projects/current/life_container_helper/build/app/tmp/compileDebugJavaWithJavac/compileTransaction",
     "storage/projects/current/life_container_helper/build/app/tmp/kotlin-classes/debug/META-INF/app_debug.kotlin_module",
-    "storage/projects/current/life_container_helper/build/app/tmp/kotlin-classes/debug/com/viktorkraen/life_container_helper/MainActivity$configureFlutterEngine$1$1.class",
-    "storage/projects/current/life_container_helper/build/app/tmp/kotlin-classes/debug/com/viktorkraen/life_container_helper/MainActivity.class",
-    "storage/projects/current/life_container_helper/build/app/tmp/kotlin-classes/debug/com/viktorkraen/life_container_helper/GitManager$Companion$cloneRepository$2.class",
-    "storage/projects/current/life_container_helper/build/app/tmp/kotlin-classes/debug/com/viktorkraen/life_container_helper/GitManager$Companion.class",
     "storage/projects/current/life_container_helper/build/app/intermediates/packaged_res/debug/drawable-xxxhdpi-v4/ic_launcher_foreground.png",
     "storage/projects/current/life_container_helper/build/app/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/launcher_icon.png",
     "storage/projects/current/life_container_helper/build/app/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher_foreground.png",
@@ -304,7 +304,6 @@
     "docs/LC2.md",
     "README.md",
     "docs/LC1.md",
-    "the-digital-brain/modules/language-learning/Deutsch/Deutsch.md",
     "the-digital-brain/modules/language-learning/Deutsch/pos/Nomen.md",
     "the-digital-brain/modules/language-learning/Deutsch/DE - Ich werde dich begleiten.md",
     "the-digital-brain/modules/language-learning/Deutsch/pos/Sätze.md",
