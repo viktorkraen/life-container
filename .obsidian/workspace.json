@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "83de24ce00d1e146",
+        "id": "ed6911fb9c8d5a7f",
         "type": "tabs",
         "children": [
           {
-            "id": "63e3a03151f943e2",
+            "id": "c1790a2f11b30745",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -33,9 +33,9 @@
     "type": "split",
     "children": [
       {
-        "id": "448a6fc96e4ef5c1",
+        "id": "f19b6e7439f18b05",
         "type": "tabs",
-        "dimension": 67.17877094972067,
+        "dimension": 50.57833859095689,
         "children": [
           {
             "id": "8b239431e3e8a5fc",
@@ -74,7 +74,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Закладки"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -82,7 +82,7 @@
       {
         "id": "b5ec15987e2cf893",
         "type": "tabs",
-        "dimension": 32.82122905027933,
+        "dimension": 49.42166140904311,
         "children": [
           {
             "id": "39e60617afb83a9b",
@@ -162,12 +162,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "cfcc765638023e75",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "eb3874e1791f1a9d",
@@ -197,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the-digital-brain/modules/service-notes/console.md",
+                "file": "docs/LC2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for console"
+              "title": "Backlinks for LC2"
             }
           },
           {
@@ -274,10 +284,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "63e3a03151f943e2",
+  "active": "8b239431e3e8a5fc",
   "lastOpenFiles": [
-    "the-digital-brain/modules/service-notes/inbox.md",
     "the-digital-brain/modules/service-notes/console.md",
+    "the-digital-brain/modules/service-notes/inbox.md",
     "the-digital-brain/notes/menu.md",
     "README.md",
     "console.md",
