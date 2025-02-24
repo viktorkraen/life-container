@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🖼",
-      "LiSettings",
-      "LiSpeech",
-      "LiEarth",
-      "LiDiamondPlus"
+      "LiMenu",
+      "LiInbox",
+      "LiNotebookTabs",
+      "LiPictureInPicture2",
+      "LiTerminal"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -48,12 +48,15 @@
   "the-digital-brain/README.md": "LiMessageCircleWarning",
   "the-digital-brain/notes": "LiNotebookTabs",
   "the-digital-brain/media": "LiBriefcaseMedical",
-  "console.md": "LiFullscreen",
-  "the-digital-brain/templates": "LiLayoutTemplate",
   "the-digital-brain/canvases": "LiMap",
   "the-digital-brain/modules": "LiDiamondPlus",
   "the-digital-brain/modules/language-learning": "LiEarth",
   "the-digital-brain/modules/language-learning/tts": "LiSpeech",
   "the-digital-brain/menu.md": "LiMenu",
-  "the-digital-brain/modules/service-banners": "🖼"
+  "the-digital-brain/modules/service-banners": "🖼",
+  "the-digital-brain/media/banners": "LiPictureInPicture2",
+  "the-digital-brain/modules/service-notes": "LiNotebookTabs",
+  "the-digital-brain/modules/service-notes/console.md": "LiTerminal",
+  "the-digital-brain/modules/service-notes/inbox.md": "LiInbox",
+  "the-digital-brain/notes/menu.md": "LiMenu"
 }

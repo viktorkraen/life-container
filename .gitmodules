@@ -4,3 +4,6 @@
 [submodule ".obsidian/plugins/obsidian-spaced-repetition"]
 	path = .obsidian/plugins/obsidian-spaced-repetition
 	url = https://github.com/viktorkraen/obsidian-spaced-repetition.git
+[submodule ".obsidian/plugins/obsidian-homepage"]
+	path = .obsidian/plugins/obsidian-homepage
+	url = https://github.com/viktorkraen/obsidian-homepage.git
