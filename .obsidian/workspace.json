@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ed6911fb9c8d5a7f",
+        "id": "1e12b3022e0810d3",
         "type": "tabs",
         "children": [
           {
-            "id": "c1790a2f11b30745",
+            "id": "489ad3129033d2be",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "the-digital-brain/modules/service-notes/console.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "console"
             }
@@ -115,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "the-digital-brain/modules/language-learning/Deutsch/Deutsch.md",
+                "file": "the-digital-brain/modules/service-notes/console.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,41 +141,10 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Deutsch"
-            }
-          },
-          {
-            "id": "c2b02bfc5fcaf15c",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "954621aea63419fa",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "cfcc765638023e75",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "title": "Graph of console"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "eb3874e1791f1a9d",
@@ -207,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LC2.md",
+                "file": "the-digital-brain/modules/service-notes/console.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +184,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for LC2"
+              "title": "Backlinks for console"
             }
           },
           {
@@ -253,16 +220,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the-digital-brain/modules/language-learning/Deutsch/Deutsch.md",
+                "file": "the-digital-brain/modules/service-notes/console.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Deutsch"
+              "title": "Outline of console"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -284,9 +252,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8b239431e3e8a5fc",
+  "active": "489ad3129033d2be",
   "lastOpenFiles": [
     "the-digital-brain/modules/service-notes/console.md",
+    "docs/LC2.md",
     "the-digital-brain/modules/service-notes/inbox.md",
     "the-digital-brain/notes/menu.md",
     "README.md",
