@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1e12b3022e0810d3",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "489ad3129033d2be",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "the-digital-brain/modules/service-notes/console.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -194,7 +194,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -206,12 +208,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "the-digital-brain/Menu.md",
+                "file": "the-digital-brain/modules/service-notes/console.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Menu"
+              "title": "Outgoing links from console"
             }
           },
           {
@@ -244,15 +246,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false,
       "dashboard-navigator:Open dashboard navigator": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "homepage:Open homepage": false
     }
   },
-  "active": "489ad3129033d2be",
+  "active": "1dc53fe7991a73ec",
   "lastOpenFiles": [
     "the-digital-brain/modules/service-notes/console.md",
     "docs/LC2.md",
