@@ -2,32 +2,36 @@
 .vscode/
 
 # # # # Unnecessary files # # # # 
-storage/backups/*
-!storage/backups/.gitkeep
+storage/Backups/*
+!storage/Backups/.gitkeep
 
 # # # # Images # # # # 
-storage/images/*
-!storage/images/.gitkeep
+storage/Images/*
+!storage/Images/.gitkeep
+
+# # # # Videos # # # # 
+storage/Videos/*
+!storage/Videos/.gitkeep
 
 # # # # Documents # # # # 
-storage/documents/*
-!storage/documents/.gitkeep
+storage/Documents/*
+!storage/Documents/.gitkeep
 
 # # # # Hotkeys # # # # 
 storage/hotkeys/*
 !storage/hotkeys/.gitkeep
 
 # # # # Music # # # # 
-storage/music/*
-!storage/music/.gitkeep
+storage/Music/*
+!storage/Music/.gitkeep
 
 # # # # Software # # # # 
-storage/software/*
-!storage/software/.gitkeep
+storage/Software/*
+!storage/Software/.gitkeep
 
 # # # # Fonts # # # # 
-storage/fonts/*
-!storage/fonts/.gitkeep
+storage/Fonts/*
+!storage/Fonts/.gitkeep
 
 # # # # Projects # # # # 
 storage/projects/*
