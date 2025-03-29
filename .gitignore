@@ -5,6 +5,10 @@
 storage/Backups/*
 !storage/Backups/.gitkeep
 
+# # # # Secrets # # # # 
+storage/Secrets/*
+!storage/Secrets/.gitkeep
+
 # # # # Images # # # # 
 storage/Images/*
 !storage/Images/.gitkeep
